@@ -3,7 +3,6 @@
 include_once 'db_connect.php';
 
 $name=$_POST['name'];
-//var_dump($name);
 $email=$_POST['email'];
 $tel=$_POST['tel'];
 $option=$_POST['option'];
