@@ -1,11 +1,11 @@
 # jquery_validation_plugin
 jquery_validation_plugin repository contains 5 files
 
-index1_new.php : all about form design in html with di
+index1_new.php : all about form design in html
 
-custom02.js : for validation in jquery and form submit with ajax
+custom02.js : for validation in jquery  and form submit with ajax
 
-style1.css : to apply css in index1.php design
+style1.css : to apply css in index1_new.php design
 
 db_connect.php : for database connectivity
 
