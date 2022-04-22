@@ -17,13 +17,11 @@
                     <div class="component">
                         <label>Full Name</label>
                         <input type="text" id="name" class="inpt" name="name" >
-                     
                     </div>
                     
                     <div class="component">
                         <label>Email Address</label>
                         <input id="email" class="inpt" type="text" name="email">
-                     
                     </div>
                     
                     <div class="component">
@@ -42,8 +40,8 @@
                         </select>   
                     </div>
                     
-                        <label for="gender">Gender</label>
-                        <div class="component">
+                    <div class="component">
+                        <label for="gender">Gender</label>    
                             <div class="choice" id="sel_rd">
                              <label><input type="radio" id="male" name="gender" value="M"/>Male</label>
                              <label><input type="radio" id="female" name="gender" value="F"/>Female</label>
